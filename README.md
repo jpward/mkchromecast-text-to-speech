@@ -1,4 +1,4 @@
-# mkchromecast-text-to-speech
+# text-2-chromecast
 
 Simple container app to convert text to speech played on chromecast devices
 
